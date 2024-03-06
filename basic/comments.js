@@ -1,3 +1,12 @@
+/* Exercise:
+Write a single line comment that says Opening line.
+Single line comments are great for adding context to your code.
+Multi-line comments are often best suited to prevent a block of code from running.
+However, both types of comments can be used for either purpose.
+
+Use a multi-line comment to comment out the rest of the code after the first console.log line. Only It was love at first sight. should be logged to the console.
+*/
+
 // Opening line
 console.log('It was love at first sight.');
 
