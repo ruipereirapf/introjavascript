@@ -33,6 +33,7 @@ const team = {
         opponentPoints: newOpponentPoints,
       };
       this.games.push(game);
+      asd
     },
   };
   
