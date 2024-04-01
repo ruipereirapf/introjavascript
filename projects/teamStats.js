@@ -32,7 +32,7 @@ const team = {
         teamPoints: newTeamPoints,
         opponentPoints: newOpponentPoints,
       };
-      this.games.push(game);
+      this.games.push(game)
     },
   };
   
