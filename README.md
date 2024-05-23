@@ -23,3 +23,7 @@ The Introduction to JavaScript course is designed to help learners grasp the bas
 ## Repository Purpose
 
 This repository serves as a collection of all code written during the course. It includes every line of code from the exercises and projects, providing a complete reference for the material covered.
+
+## Contact Information
+
+Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/ruifernpereira/) for any questions or collaborations.
